@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303869533606",
+    "project_id": "alos-project",
+    "storage_bucket": "alos-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303869533606:android:d7371c943fbdb37798c367",
+        "android_client_info": {
+          "package_name": "com.arpan.alosproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303869533606-f4r857lieup7u2qili2gp69rgc2g3918.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pRD-VmZKxw78B1gq7qxaHgje1f9yJHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303869533606-f4r857lieup7u2qili2gp69rgc2g3918.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

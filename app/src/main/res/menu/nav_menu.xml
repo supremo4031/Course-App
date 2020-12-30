@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group1">
+
+    </group>
+
+    <group android:id="@+id/group2"
+        android:checkableBehavior="single">
+
+        <item android:id="@+id/courses"
+            android:title="@string/courses"
+            android:icon="@drawable/ic_courses"/>
+
+        <item android:id="@+id/invite"
+            android:title="@string/invite"
+            android:icon="@drawable/ic_invite"/>
+
+        <item android:id="@+id/contact"
+            android:title="@string/contact"
+            android:icon="@drawable/ic_contact"/>
+
+    </group>
+
+</menu>
